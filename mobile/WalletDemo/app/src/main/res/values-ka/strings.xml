@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">საფულის დემო აპი</string>
+
+    <string name="welcome_back">კეთილი იყოს თქვენი დაბრუნება</string>
+    <string name="total_balance">სრული ბალანსი</string>
+    <string name="send">გაგზავნა</string>
+    <string name="add_money">თანხის დამატება</string>
+    <string name="recent_transactions">ბოლო ტრანზაქციები</string>
+    <string name="loading">იტვირთება...</string>
+    <string name="error">შეცდომა</string>
+    <string name="something_went_wrong">დაფიქსირდა შეცდომა</string>
+    <string name="change_language">English</string>
+</resources>
